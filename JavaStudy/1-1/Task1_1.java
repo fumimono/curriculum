@@ -23,10 +23,10 @@ public class Task1_1 {
         // ②Stringクラスの hogeString という名前の変数を宣言、値「テスト」で初期化
         String hogeString ="テスト";
         // ③下記の処理について、何をしているのかコメントを記入してください
-        // [0.2という値を格納している。]
+        // [0.2という値をhogeDoubleに格納している。]
        double hogeDouble = 0.2;
         // ④変数 hogeInt を値「100」で上書き
-        int hogesInt =100;
+        hogeInt=100;
         // ⑤変数 hogeString を値「合格」で上書き
         hogeString="合格";
         // ⑥変数 hogeInt の値を表示
